@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.conatiner
+{
+     margin: auto;
+     text-align: center;
+     position: relative;
+     top: 220px;
+}
+button
+ {
+ /* background-color: rgb(9, 92, 117); */
+ background-color: rgb(255, 137, 157);
+ font-size: 1.3rem;
+ color: rgb(10, 10, 10);
+ padding: 10px;
+ border-radius: 8px;
+ margin-top: 10px;
+ border-color:rgb(255, 255, 255) ;
+}
+h1
+{
+    font-size: 2.95rem;
+    color: rgb(10, 9, 6);
+    text-shadow: 2px 3px 5px rgb(255, 113, 113);
+}
